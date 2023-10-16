@@ -1,0 +1,38 @@
+Toyota Land Cruiser;2019;Dízel;2500;Összkerékhajtás;Hegyek mászása, 80 cm-es víz áthajtás mélység
+Jeep Wrangler;2020;Benzin;2000;Hátsókerékhajtás;Homokban is képes közlekedni
+Land Rover Discovery;2018;Dízel;2200;Összkerékhajtás;Lejtőkön való mászás, 70 cm-es víz áthajtás mélység
+Nissan Pathfinder;2017;Benzin;2100;Összkerékhajtás;Sárban is hatékony
+Ford Bronco;2021;Benzin;1900;Elsőkerékhajtás;Kiváló hóban is
+Mitsubishi Pajero;2019;Dízel;2400;Összkerékhajtás;Kiváló terepviszonyokhoz alkalmazkodás
+Jeep Cherokee;2018;Benzin;1800;Elsőkerékhajtás;Homokon is könnyedén halad
+Land Rover Defender;2020;Dízel;2300;Összkerékhajtás;Hevederes kormányzás, 75 cm-es víz áthajtás mélység
+Chevrolet Tahoe;2019;Benzin;2400;Hátsókerékhajtás;Vízben is stabil marad
+Ford Ranger Raptor;2021;Dízel;2100;Összkerékhajtás;Sziklás terepen is jól teljesít
+Nissan Xterra;2018;Benzin;2000;Összkerékhajtás;Sárban és hóban is hatékony
+Toyota 4Runner;2020;Benzin;2100;Összkerékhajtás;Kiváló off-road képességek
+Jeep Grand Cherokee;2019;Dízel;2200;Összkerékhajtás;Túlélő képesség a vadonban
+Subaru Outback;2017;Benzin;1800;Összkerékhajtás;Kényelmes off-road utazás
+Mitsubishi Montero;2019;Dízel;2300;Összkerékhajtás;Sziklás terepen is jól teljesít
+Land Rover Range Rover;2018;Dízel;2500;Összkerékhajtás;Luxus és off-road együttesen
+Chevrolet Colorado;2020;Benzin;1900;Hátsókerékhajtás;Könnyedén átjut nagyobb akadályokon is
+Ford Explorer;2019;Benzin;2100;Összkerékhajtás;Vízben is stabil marad
+Toyota Sequoia;2018;Benzin;2400;Hátsókerékhajtás;Kiváló terepjáró képességek
+Nissan Patrol;2020;Dízel;2600;Összkerékhajtás;Terepkövető rendszerrel rendelkezik
+Jeep Renegade;2019;Benzin;1700;Elsőkerékhajtás;Könnyű terepen is kiváló
+Land Rover Range Rover Sport;2018;Dízel;2400;Összkerékhajtás;Hóban is biztonságos
+Chevrolet Blazer;2020;Benzin;2000;Hátsókerékhajtás;Kényelmes off-road utazás
+Ford Escape;2019;Benzin;1600;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Toyota RAV4;2020;Benzin;1800;Összkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Nissan Rogue;2018;Benzin;1700;Elsőkerékhajtás;Könnyű terepen is kiváló
+Jeep Compass;2019;Benzin;1500;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Subaru Crosstrek;2020;Benzin;1600;Összkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Mitsubishi Eclipse Cross;2018;Benzin;1600;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Land Rover Range Rover Evoque;2019;Benzin;1700;Összkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Chevrolet Trax;2018;Benzin;1500;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Ford EcoSport;2020;Benzin;1400;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Toyota C-HR;2019;Benzin;1500;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Nissan Kicks;2018;Benzin;1400;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Jeep Renegade 4xe;2020;Hibrid;1800;Összkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Toyota RAV4 Prime;2019;Hibrid;1900;Összkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Ford Escape Hybrid;2020;Hibrid;1700;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
+Nissan Rogue Hybrid;2018;Hibrid;1600;Elsőkerékhajtás;Kompakt méretű, könnyű terepen is kiváló
